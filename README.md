@@ -19,7 +19,19 @@
   - TSL（Translated）：翻译的数据
   - MIX：混合数据
 
-[TOC]
+<!-- TOC -->
+
+- [Awesome Chinese Instruction Tuning Dataset](#awesome-chinese-instruction-tuning-dataset)
+  - [数据集](#数据集)
+    - [Belle|2M|SI](#belle2msi)
+    - [Alpaca-GPT4|49k|MG-GPT4](#alpaca-gpt449kmg-gpt4)
+    - [COIG|190k|MIX](#coig190kmix)
+    - [HC3-ZH|13k|MG-ChatGPT](#hc3-zh13kmg-chatgpt)
+    - [MOSS-002-SFT|590k|MG-`text-davinci-003`](#moss-002-sft590kmg-text-davinci-003)
+    - [shareGPT\_cn|26k|TSL](#sharegpt_cn26ktsl)
+    - [OASST1-zh|2k|HG](#oasst1-zh2khg)
+
+<!-- /TOC -->
 
 ## 数据集
 
